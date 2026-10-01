@@ -1,0 +1,16 @@
+[
+  {"id":"ps5-ea-fc-27","name":"PlayStation 5 Console & EA SPORTS FC 27","brand":"Sony","category":"Gaming","icon":"pad","price":112500,"condition":"new","image":null},
+  {"id":"steam-machine-512","name":"Valve Steam Machine Gaming Console – 512GB","brand":"Valve","category":"Gaming","icon":"pad","price":175000,"condition":"new","image":null},
+  {"id":"ps5-slim-wolverine","name":"PS5 Slim Digital Marvel’s Wolverine Limited Edition","brand":"Sony","category":"Gaming","icon":"pad","price":115000,"condition":"new","image":null},
+  {"id":"ps5-standard-digital-used","name":"PS5 Standard Digital (Used)","brand":"Sony","category":"Gaming","icon":"pad","price":59999,"condition":"used","image":null},
+  {"id":"xbox-series-x-digital","name":"Xbox Series X 1TB – Digital","brand":"Microsoft","category":"Gaming","icon":"pad","price":91999,"condition":"new","image":null},
+  {"id":"ps5-ghost-of-yotei","name":"PS5 Ghost of Yōtei Edition","brand":"Sony","category":"Gaming","icon":"pad","price":null,"condition":"new","image":null},
+  {"id":"ps4","name":"PlayStation 4","brand":"Sony","category":"Gaming","icon":"pad","price":null,"condition":"new","image":null},
+  {"id":"iphone-17-pro-max","name":"iPhone 17 Pro Max","brand":"Apple","category":"Phones","icon":"phone","price":null,"condition":"new","image":null},
+  {"id":"iphone-15-pro","name":"iPhone 15 Pro","brand":"Apple","category":"Phones","icon":"phone","price":null,"condition":"new","image":null},
+  {"id":"galaxy-z-fold7","name":"Galaxy Z Fold7","brand":"Samsung","category":"Phones","icon":"phone","price":null,"condition":"new","image":null},
+  {"id":"galaxy-z-flip7","name":"Galaxy Z Flip7","brand":"Samsung","category":"Phones","icon":"phone","price":null,"condition":"new","image":null},
+  {"id":"jbl-speakers","name":"JBL Speakers","brand":"JBL","category":"Audio","icon":"spk","price":null,"condition":"new","image":null},
+  {"id":"sony-speakers","name":"Sony Speakers","brand":"Sony","category":"Audio","icon":"spk","price":null,"condition":"new","image":null},
+  {"id":"harman-kardon-speakers","name":"Harman Kardon Speakers","brand":"Harman Kardon","category":"Audio","icon":"spk","price":null,"condition":"new","image":null}
+]

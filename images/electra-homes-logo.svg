@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 190" role="img" aria-labelledby="title desc">
+<title id="title">Electra Homes</title><desc id="desc">Electra Homes sub-brand logo with the Electra wordmark and a minimal home outline.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#C9A86A"/><stop offset="1" stop-color="#C9A24B"/></linearGradient></defs>
+<g transform="translate(8 10)">
+  <path d="M24 76 83 28l59 48v66H24z" fill="none" stroke="#1A1A1A" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M59 142V95h48v47" fill="none" stroke="#C9A24B" stroke-width="8"/>
+  <path d="M65 60h36" stroke="#C9A86A" stroke-width="8" stroke-linecap="round"/>
+  <path d="M30 86 83 43l53 43" fill="none" stroke="url(#g)" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="172" y="91" fill="#1A1A1A" font-family="Inter,system-ui,sans-serif" font-size="61" font-weight="800" letter-spacing="-2.8">Electra</text>
+<text x="175" y="139" fill="#C9A24B" font-family="Inter,system-ui,sans-serif" font-size="30" font-weight="700" letter-spacing="8">HOMES</text>
+<rect x="418" y="118" width="96" height="3" rx="2" fill="#C9A86A"/>
+</svg>

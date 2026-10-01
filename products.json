@@ -1,5 +1,4 @@
 [
-  {"id":"ps5-ea-fc-27","name":"PlayStation 5 Console & EA SPORTS FC 27","brand":"Sony","category":"Gaming","icon":"pad","price":112500,"condition":"new","image":null},
   {"id":"steam-machine-512","name":"Valve Steam Machine Gaming Console – 512GB","brand":"Valve","category":"Gaming","icon":"pad","price":175000,"condition":"new","image":null},
   {"id":"ps5-slim-wolverine","name":"PS5 Slim Digital Marvel’s Wolverine Limited Edition","brand":"Sony","category":"Gaming","icon":"pad","price":115000,"condition":"new","image":null},
   {"id":"ps5-standard-digital-used","name":"PS5 Standard Digital (Used)","brand":"Sony","category":"Gaming","icon":"pad","price":59999,"condition":"used","image":null},
